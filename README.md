@@ -1,16 +1,14 @@
-# fitnessui
+# Flutter FitnessUI App
 
-A new Flutter project.
+This is a Flutter app that implements the UI design for a fitness app's home screen. The app is built using the Dart programming language and the Flutter framework.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+The Flutter FitnessUI app implements the following features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- A home screen with a header, a search bar, and a list of categories.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Home Screen](https://user-images.githubusercontent.com/53111065/234928478-8fc1faf7-511e-448e-a026-fdf56832e1d6.png)
