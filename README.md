@@ -1,11 +1,10 @@
-# Flutter FitnessUI App
-
+# Practicing Ui Design
 This is a Flutter app that implements the UI design for a fitness app's home screen. The app is built using the Dart programming language and the Flutter framework.
 
 
 ## Features
 
-The Flutter FitnessUI app implements the following features:
+The Flutter practice UI implements the following features:
 
 - A home screen with a header, a search bar, and a list of categories.
 
